@@ -33,6 +33,13 @@ Company has produced over 600 movies, but our dataset has 579 unique movies. Sno
 <a href="InflateAdjusted_Time.png" class="image fit" type="application/png"></a>
 ![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/InflateAdjusted_Time.png)
 
+## Libraries:
+
+    1 Matplotlib    6 sklearn
+    2 plotly        7 tensorflow
+    3 seaborn       8 iplotter
+    4 numpy
+    5 pandas
 
 # Datasets:
 
