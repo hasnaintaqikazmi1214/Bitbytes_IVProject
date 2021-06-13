@@ -1,6 +1,6 @@
 # Bitbytes IV Project
 
-Disney Movie
+Disney Movie Indepth Analysis using visualization and Rating Prediction using Machine Learning.
 
 # Project Description:
 
@@ -17,21 +17,36 @@ Company has produced over 600 movies, but our dataset has 579 unique movies. Sno
 
 # Visualization:
 
+
+## Disney Movies genre and their count between year 2017-2019?
+
+<a href="movieGenreCount.png" class="image fit" type="application/png"></a>
+![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/Visualizations/movieGenreCount.png)
+
 ## Which genre was the most popular ( Highest rated ) between year 2017-2019 in which country?
 
 <a href="HighestTrend.png" class="image fit" type="application/png"></a>
-![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/HighestTrend.png)
+![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/Visualizations/HighestTrend.png)
 
-## Among all the movies realse up to the date which year was highest with total_gross?
+## Among all the movies release up to the date which year was highest with total_gross?
 
 <a href="TotalGross_Time.png" class="image fit" type="application/png"></a>
-![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/TotalGross_Time.png)
+![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/Visualizations/TotalGross_Time.png)
 
 
-## Among all the movies realse up to the date which year was highest with inflation adjusted gross?
+## Among all the movies release up to the date which year was highest with inflation adjusted gross?
 
 <a href="InflateAdjusted_Time.png" class="image fit" type="application/png"></a>
-![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/InflateAdjusted_Time.png)
+![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/Visualizations/InflateAdjusted_Time.png)
+
+
+
+## Among all the movies release up to the date which year was highest with total income?
+
+<a href="movieReleaseYearly.png" class="image fit" type="application/png"></a>
+![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/Visualizations/movieReleaseYearly.png)
+
+
 
 ## Libraries:
 
