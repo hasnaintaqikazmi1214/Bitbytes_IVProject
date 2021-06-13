@@ -1,6 +1,6 @@
 # Bitbytes IV Project
 
-Disney Movie Indepth Analysis using visualization and Rating Prediction using Machine Learning.
+Disney Movie Indepth Analysis using Visualization (D3, Plotly) and Rating Prediction using Machine Learning.
 
 # Project Description:
 
