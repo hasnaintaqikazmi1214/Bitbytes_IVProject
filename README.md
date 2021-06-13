@@ -6,9 +6,11 @@ Disney Movie
 
 Lot many kids are fascinated by the animated movies. Among them Disney is the favorite brand of generating animated movies. We were lucky to have some data of 579 movies from 1937 to 2016 by the same production company.  
 We were introduced with three approaches of collecting the dataset
+
     1. BYOD
     2. GYOD
     3. FDOI
+    
 We collected the data using third approach FDOI. There are many datasets available over the internet. The dataset we have selected is from a website kaggle.com . 
 Dataset comprises of Disney Company Gross Income from 1937 to 2016.
 Company has produced over 600 movies, but our dataset has 579 unique movies. Snow White and the Seven Dwarfs were the movies released in 1937.
