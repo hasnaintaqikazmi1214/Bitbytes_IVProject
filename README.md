@@ -20,8 +20,8 @@ Company has produced over 600 movies, but our dataset has 579 unique movies. Sno
 
 ## Disney Movies genre and their count between year 2017-2019?
 
-<a href="movieGenreCount.png" class="image fit" type="application/png"></a>
-![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/Visualizations/movieGenreCount.png)
+<a href="movieGenreCount.jpg" class="image fit" type="application/jpg"></a>
+![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/Visualizations/movieGenreCount.jpeg)
 
 ## Which genre was the most popular ( Highest rated ) between year 2017-2019 in which country?
 
