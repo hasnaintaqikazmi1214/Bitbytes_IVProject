@@ -50,6 +50,10 @@ The dataset is broken down into two parts:
 <a href="movieReleaseYearly.png" class="image fit" type="application/png"></a>
 ![alt text](https://github.com/hasnaintaqikazmi1214/Bitbytes_IVProject/blob/main/Visualizations/movieReleaseYearly.png)
 
+# Overleaf Report link: 
+
+https://www.overleaf.com/project/60c836fe57fd93614e5cec38
+
 ## Libraries:
 
     1 Matplotlib    6 sklearn
